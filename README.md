@@ -11,7 +11,7 @@ and after that run connection.py file to generate the Database name and table re
 
 and later run python/python3 app.py
 
-http://127.0.0.1:5000/ inthis localhost you can get the login page 
+http://127.0.0.1:5000/ in this localhost you can get the login page 
 
 i made it very simple using sessions while login and logout from the propject
 
